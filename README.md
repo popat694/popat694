@@ -31,7 +31,6 @@ Welcome to my GitHub! I'm passionate about crafting clean and efficient code. Wi
    - **Tech Stack:** AngularJS | PHP (Laravel) | MySQL
    - **Team Members:** 3
    - **Duration:** 1.5 Years
-   - **Duration:** 1.5 Years
 
 2. [AROGYA.AI](https://www.arogya.ai/): Inventory management system for Arogya.ai in Indonesia, using VueJS, NodeJs, and MySQL.
 
