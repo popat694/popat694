@@ -15,8 +15,6 @@ Welcome to my GitHub! I'm passionate about crafting clean and efficient code. Wi
 
 ### 💼 Work Experience
 
-**WEB DEVELOPER at Wings Tech Solutions (Sep 2018 - Present)**
-
 - Building websites using PHP, Laravel, and MySQL
 - Designing databases and developing APIs using Node.js, Laravel, and MySQL
 - Implementing CI/CD with GitHub Actions and Jenkins
