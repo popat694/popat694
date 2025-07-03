@@ -1,6 +1,6 @@
 # Hi there, I'm Parth Popat 👋
 
-## 🚀 Full Stack Web Developer | 5 Years Experience
+## 🚀 Full Stack Web Developer | 6 Years Experience
 
 Welcome to my GitHub! I'm passionate about crafting clean and efficient code. With a strong background in web development, I enjoy building robust and scalable applications.
 
